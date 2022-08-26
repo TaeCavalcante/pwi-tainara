@@ -1,2 +1,2 @@
-# pwi-vitor-tainara
+# pwi-tainara
 Repositório para as aulas de pwi dos professores Orlando e João
